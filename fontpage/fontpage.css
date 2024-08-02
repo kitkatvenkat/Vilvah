@@ -1,0 +1,444 @@
+#navbar{
+    background-color: rgb(164 182 96);
+    /* position: fixed; */
+}
+
+#use{
+    color: white;
+}
+.success {
+    color: rgb(164 182 96); 
+    font-weight: bold;
+    text-align: center; 
+}
+.font:hover{
+    color: rgb(162, 32, 136);
+    cursor: pointer;
+}
+.middle{
+    /* background-color: chocolate; */
+    width: 100%;
+    height: 450px;
+    gap: 30px;
+    display: grid;
+    grid-template-columns: repeat(8, 300px);
+}
+.btn{
+    background-color: rgb(164 182 96);
+    background-size: cover;
+    
+}
+.marq{
+    
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+#cont{
+    margin-left: 80px;
+}
+marquee{
+    color:rgb(164 182 96) ;
+    font-size: 35px;
+}
+.image1{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect1.webp);
+}
+.image1:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/prodect1.1.avif);
+}
+.image2{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect2.webp);
+}
+.image2:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect2.1.avif);
+}
+.image3{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect3.webp);
+}
+.image3:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/product3.1.avif);
+}
+.image4{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect4.webp);
+}
+.image4:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/product4.1.avif);
+}
+.image5{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect5.webp);
+}
+.image5:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/product5.1.avif);
+}
+.image6{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect6.webp);
+}
+.image6:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/product6.1.avif);
+}
+.image7{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect7.webp);
+}
+.image7:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/product7.1.avif);
+}
+.image8{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/prodect8.webp);
+}
+.image8:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/product8.1.avif);
+}
+.price{
+    color: rgb(96, 94, 94);
+}
+.Seller{
+    background-color: red;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.most{
+    font-size: 12px;
+    margin-top: 10px;
+    color: white;
+    margin-left: 10px;
+    /* font-style: oblique; */
+}
+.fast{
+    font-size: 12px;
+    margin-top: 10px;
+    background-color: rgb(100, 174, 100);
+    color: white;
+    margin-left: 10px;
+
+}
+.upto{
+    font-size: 12px;
+    margin-top: 10px;
+    background-color: rgb(100, 174, 100);
+    color: white;
+    margin-left: 10px;
+
+}
+#bestsell{
+    width: 100%;
+    height: 150px;
+    display: grid;
+    align-items: center;
+}
+ h1{
+    /* background-color: blue; */
+    text-align: center;
+}
+.skin{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+
+}
+.hcare{
+    font-size: 30px;
+    text-align: center;  
+}
+.imageb1{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb1.webp);
+}
+.imageb1:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb1.1.avif);
+}
+.imageb2{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb2.webp);
+}
+.imageb2:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb2.1.avif);
+}
+.imageb3{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb3.webp);
+}
+.imageb3:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb3.1.avif);
+}
+.imageb4{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb4.webp);
+}
+.imageb4:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb4.1.avif);
+}
+.imageb5{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb5.webp);
+}
+.imageb5:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb5.1.avif);
+}
+.imageb6{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb6.webp);
+}
+.imageb6:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb6.1.webp);
+}
+.imageb7{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb7.avif);
+}
+.imageb7:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb7.1.avif);
+}
+.imageb8{
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb8.webp);
+}
+.imageb8:hover{
+    cursor: pointer;
+    width: 100%;
+    height: 300px;
+    border-radius: 14px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(/fontpage/productb8.1.avif);
+}
+.bg4{
+    width: 95%;
+    height: 550px;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    background-image: url(/fontpage/bg4.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#footer{
+    width: 100%;
+    margin-top: 10px;
+    height: 150px;
+    background-color:rgb(200, 212, 155) ;
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+    gap: 100px;
+    justify-content: center;
+}
+.footsub{
+/* background-color: aqua; */
+height: 150px;
+margin-top: 10px;
+text-align: start;
+}
+.icon{
+    font-size: 30px;
+}
+.footernev{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(164 182 96);
+    display: grid;
+    grid-template-columns: 380px 250px 250px 200px 200px;
+    gap: 50px;
+
+}
+.fnev{
+    border: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 400px;
+    margin-top: 50px;
+    color: white;
+}
+.goo{
+    font-size: 40px;
+    margin-top: 25px;
+}
+.ffirst{
+    margin-left: 20px;
+}
+#example{
+    background-color: rgb(164 182 96);
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.Join{
+    background-color: rgb(164 182 96);
+    color: white;
+    border: 1px solid white;
+    font-size: 20px;
+    border-radius: 7px;
+}
+.fff{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}

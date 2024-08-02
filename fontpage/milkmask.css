@@ -1,0 +1,92 @@
+#navbar{
+    background-color: rgb(164 182 96);
+    position: sticky;
+    top: 0;
+}
+.nav2{
+    position: sticky;
+    top: 30px;
+}
+#use{
+    color: white;
+}
+.success {
+    color: rgb(164 182 96); 
+    font-weight: bold;
+    text-align: center; 
+}
+.font:hover{
+    color: rgb(162, 32, 136);
+    cursor: pointer;
+}
+.middle{
+    /* background-color: chocolate; */
+    width: 100%;
+    height: 450px;
+    gap: 30px;
+    display: grid;
+    grid-template-columns: repeat(8, 300px);
+}
+.btn{
+    background-color: rgb(164 182 96);
+    background-size: cover;
+    
+}
+.marq{
+    
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+#cont{
+    margin-left: 80px;
+}
+
+.middle{ 
+    width: 100%;
+    height: 800px;
+    display: grid;
+    grid-template-columns: 700px 700px;
+    background-color: rgb(249, 228, 223);
+
+} 
+.imgid{
+    margin: 20px ;
+
+    align-items: center;
+}
+.midd{
+    width: 100%;
+    height: 700px;
+    background-color: white;
+    border-radius: 8px;
+    margin: 20px;
+   position: relative;
+    align-items: center;
+}
+.exp{
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+    height: 700px;
+    margin: 20px;
+
+
+}
+.yel{
+    color: rgb(250, 201, 5);
+}
+#explain{
+    margin: 20px;
+}
+.list{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    font-size: 16px;
+}
+#box{
+    width: 100%;
+    height: 700px;
+    background-color: aqua;
+}
