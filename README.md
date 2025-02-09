@@ -2,8 +2,7 @@
 
 Vilvah is a fully responsive and stylish website built using **HTML, CSS, and Bootstrap**. It is designed with a clean UI, modern aesthetics, and a mobile-friendly layout.
 
-## 🔗 Live Demo
-Check out the live version: [Vilvah Live](https://your-live-demo-link.com)
+
 
 ## ✨ Features
 - Fully responsive design
